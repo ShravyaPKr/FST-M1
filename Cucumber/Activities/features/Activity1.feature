@@ -1,5 +1,5 @@
-@activity1_1
-Feature: First Test
+@activity1
+Feature: Activity First Test
 
 @SmokeTest
 Scenario: Opening a webpage using Selenium
