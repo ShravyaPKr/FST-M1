@@ -1,4 +1,4 @@
-@activity1_2
+@activity2
 Feature: Login Test
   
   Scenario: Testing Login	
