@@ -1,4 +1,4 @@
-@activity1_3
+@activity3
 Feature: Testing with Tags
 
   @SimpleAlert @SmokeTest
@@ -28,6 +28,5 @@ Feature: Testing with Tags
     And Read the text from it and print it
     And Write a custom message in it
     And Close the alert
-    #And Read the result text (<--- Result element is not present in the page -->)
     And Close Browser
     
