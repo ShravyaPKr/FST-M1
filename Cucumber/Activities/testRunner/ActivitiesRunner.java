@@ -10,7 +10,7 @@ import io.cucumber.junit.CucumberOptions;
     features = "src/test/java/Features",
     glue = {"stepDefinition"},
     // Below tags will run Activity1 to Activity 5 at once
-    tags = "@activity1 or @activity2 or @activity3 or @activity4 or @activity5 or @activity6",
+    tags = "@activity1 or @activity2 or @activity3 or @activity4 or @activity5",
     //tags = "@SmokeTest", // Run separately for Activity 6
     plugin = {"pretty"},
     //plugin = {"html: test-reports"}, // Run separately for Activity 6
